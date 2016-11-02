@@ -6,4 +6,4 @@ mm<-inches * 25.4
 return(mm)
 }
 
-#[TODO: developer A]Add inche to cm conversiton function
+
