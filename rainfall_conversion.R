@@ -5,3 +5,5 @@ inches_to_mm <- function(inches){
 mm<-inches * 25.4
 return(mm)
 }
+
+#[TODO] add a function for inches to cm conversion
